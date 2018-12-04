@@ -1,0 +1,12 @@
+[package]
+name = "advent_of_code"
+version = "0.1.0"
+authors = ["Kamaron Peterson <kamaron.peterson@gmail.com>"]
+
+[[bin]]
+name = "01_chronal_calibration"
+path = "01-chronal-calibration/main.rs"
+
+[[bin]]
+name = "02_inventory_management_system"
+path = "02-inventory-management-system/main.rs"
